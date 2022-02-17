@@ -1,6 +1,6 @@
-# Leads-Generator-Bot
+# Leads-Generator-AI
 Enter name of multiple Companies 
-and Bot will find all the People working in that company, their email Addresses and Company Phone numbers and other details
+and AI will find all the People working in that company, their email Addresses and Company Phone numbers and other details
 
 Requirements
 Google Sheet named =  compdata 
