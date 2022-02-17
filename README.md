@@ -1,4 +1,4 @@
-# Leads-Generator-AI
+# Leads-Generator-AI Engine
 Enter name of multiple Companies 
 and AI will find all the People working in that company, their email Addresses and Company Phone numbers and other details
 
@@ -12,3 +12,7 @@ Requirements
 
 
 2: hunter.io API 
+
+3: Linkedin Credentials
+
+4: Folder in Google Drive - > My Drive / Industry Campaigns / Leads Prospecting
